@@ -1,4 +1,4 @@
-- Alurateca
+<h1 align="center">Alurateca Challenge #2</h1>
 
 - Descripción:
 Alurateca es una aplicación de consola desarrollada en Java utilizando Spring. Esta aplicación permite a los usuarios buscar y gestionar información sobre libros y autores consumiendo la API Guntendex. 
@@ -8,7 +8,7 @@ Alurateca es una aplicación de consola desarrollada en Java utilizando Spring. 
 - Menu:
 - ![image](https://github.com/Froddo1/alurateca/assets/128931096/14fb5e76-6b3d-4550-99b5-1512f34876cc)
 1. Buscar libros por título: Realiza una consulta a la API ingresando el nombre del libro. Si se encuentra, se registra en la base de datos y muestra información como el nombre, el autor, el año de publicación y el número de descargas.
-   ![image](https://github.com/Froddo1/alurateca/assets/128931096/9fe9c972-7f5b-4349-8218-efde6ddfb838)
+- ![image](https://github.com/Froddo1/alurateca/assets/128931096/9fe9c972-7f5b-4349-8218-efde6ddfb838)
 2. Mostrar libros registrados: Muestra todos los libros que han sido registrados en la base de datos tras ser encontrados mediante la búsqueda.
 - ![image](https://github.com/Froddo1/alurateca/assets/128931096/25aeb72b-c66e-4425-acc5-3cae9db59005)
 4. Mostrar autores registrados: Muestra los autores registrados en la base de datos, incluyendo su nombre, fecha de nacimiento y otros detalles.
